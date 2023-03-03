@@ -1,0 +1,40 @@
+Deep Learning Working
+
+Y = WX + B
+
+Y = output
+X = Input
+W = Coefficient
+B = Interception
+
+Types
+
+AGI(Artificial General Intelligence) and ANI(Artificial Narrow Intelligence)
+
+Probablistic Modeling --> Naive Bayes Algo
+
+Decision Trees
+Random Forest
+Boosting Machines
+
+CART (Classification Regression Tree)
+
+
+Data convertion into number --> Vectorization
+
+Vectorized Data is used to train Neural network
+
+Classes and Labels
+
+Break datasets column wise
+1st part of Data --> Input 
+Label --> output
+
+Break data row wise can be divided into 02 or max 03 parts
+Test data
+Train Data
+Validation Data
+
+
+Machine Learning Problems
+-- Classification Problem
